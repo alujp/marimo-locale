@@ -1,0 +1,215 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "change_network": "Change network",
+    "check_detail": "Check Detail",
+    "clarity": "Water clarity",
+    "close": "Close",
+    "connect_metamask": "Please connect to MetaMask",
+    "error_message": "An error occurred. Please try again later.",
+    "growth_speed": "The Speed of Growth",
+    "login": "Login",
+    "look_opensea": "Buy From OpenSea",
+    "metamask_login_desc": "MetaMask Login is required to name your marimo.",
+    "metamask_login_title": "MetaMask Login",
+    "multiple": "x",
+    "please_change_network": "Please change network.",
+    "price": "Price",
+    "supply": "Supply",
+    "url_copied": "OK",
+    "wait_a_moment": "please wait around 15s to 60s"
+  },
+  "footer": {
+    "about_us": "About Us",
+    "company_name": "alu inc.",
+    "contact_us": "Contact Us",
+    "help": "Help",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Terms"
+  },
+  "header": {
+    "desc_1": "You are connected to the wrong network. ",
+    "desc_2": "Click here to fix.",
+    "disconnect_wallet": "Disconnect Wallet"
+  },
+  "metatag": {
+    "default_desc": "marimo is an NFT that grows with time. You can take care of them by changing the water. Why don't you get one and grow your marimo?",
+    "desc": "#{{marimoId}} marimo. If you change the water, marimo will grow. Click here for marimoNFT which grows with time."
+  },
+  "top_page": {
+    "marimo_title" :"What is marimo?",
+    "marimo_desc_1": "marimo is the project in which you can grow a marimo by purchasing an NFT. The only thing you need to do is to change the water occasionally. marimo is gradually getting bigger and bigger.",
+    "marimo_desc_2": "Those who want to retain more marimos should purchase them in a secondary market such as OpenSea.",
+    "marimo_nft_spec": {
+      "title": "About marimo NFT",
+      "caption_1": "Mint marimo NFT",
+      "caption_2": "Change the water once in a while",
+      "caption_3": "Getting bigger and bigger"
+    },
+    "marimo_nft_concept": {
+      "title": "Concept",
+      "desc_1": "\"NFT\" is currently gaining momentum around the world. NFT stands for \"Non-Fungible Token\" (",
+      "desc_2": "What is NFT?",
+      "desc_3": ").",
+      "desc_4": "Various NFT projects are on the rise both abroad and in Japan. However, for those who have never purchased an NFT, it is difficult and inaccessible.",
+      "head_line_1": "Lots of jargon and technical talk, difficult to follow",
+      "head_line_2": "Not sure which NFT to buy",
+      "head_line_3": "Lack of time to contribute in the community",
+      "desc_5": "The marimo NFT project was launched with two goals in mind: to get more people interested in NFT and to have people enjoy taking their time to grow marimos over time rather than buying and selling them frequently.",
+      "desc_6": "A marimo can be purchased as low as 0.01 ETH. In addition, marimo grows over time, so you can enjoy the slow and steady growth of marimo over several years."
+    },
+    "marimo_popular_nft": {
+      "title": "Popular marimos",
+      "desc_1": "Anyone can change the water and take care of marimos which other people have!",
+      "desc_2": "",
+      "secondary_market_link": "View more marimos on OpenSea"
+    },
+    "marimo_community": {
+      "title": "Twitter Community",
+      "desc_1": "marimo NFT has a Twitter Community.",
+      "desc_2": "There are many NFT projects where people actively communicate with each other on Discord and other social platforms to contribute to the project....However, we thought those busy people might find it hard to buy NFTs because they don't have time to join the community, so we created a community with zero pressure.",
+      "desc_3": "Participation is free, and there is absolutely no problem whether you join or not. It is an incredibly laid-back space. Let’s share your daily marimo growth, say hi, chat, and talk about global environmental issues!",
+      "twitter_community_link": "Check Twitter community"
+    },
+    "marimo_spec": {
+      "title": "Specifications",
+      "desc_1": "The logic of growth and specifications for marimo are as follows.",
+      "small_title_1": "The Speed of Growth",
+      "desc_2": "It grows 0.01 cm every 15 hours. For example, a marimo about the size of a 500 yen coin (JPY) becomes the size of the Olympic medal in one year.",
+      "desc_3": "However, if the water is not clean, the growth rate will slow down. Water clarity decreases by 1% per day (24 hours) and the growth will stop when the water becomes completely muddy (0% clarity).",
+      "small_title_2": "The Gas Fees for Changing Water",
+      "desc_4": "Changing water costs a gas fee. Gas prices vary depending on network conditions. ",
+      "desc_5": "(What are Gas Fees?)",
+      "desc_6": " Water changes are limited to once every 24 hours. Frequent water changes are not good for marimos, so please be gentle!",
+      "desc_7": "Water in marimo can be converted by non-owning users. A record of water changes is written to the blockchain.",
+      "twitter_link": "Go to change someone’s water (Go Twitter).",
+      "small_title_3": "Colors and Shape Patterns",
+      "desc_8": "There are 1,000 types of marimo, 10 for each type. The probability of appearance of each is the same for all. You cannot select colors and shapes, and it appears completely randomly at the time of minting.",
+      "desc_9": "Please go ",
+      "desc_10": "this page",
+      "desc_11": " for the details."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q_1": {
+        "title": "Tell me more about the concept!",
+        "desc_1": "You can find more details in this article (Only in Japanese).",
+        "desc_2": "NFTについて考え続けたら、答えは「🟢まりも」になった件について",
+        "desc_3": "(Title in English ”About how I kept thinking about NFTs, and the answer was 🟢Marimo.”)",
+        "desc_4": "In summary,",
+        "desc_5": "- We wanted to create an NFT collection that was easy for beginners to join.",
+        "desc_6": "- We didn't want it to be something where price movements would be bothered.",
+        "desc_7": "- We wanted it to be something that people could enjoy growing slowly.",
+        "desc_8": ""
+      },
+      "q_2": {
+        "title": "I'm a beginner, so tell me everything from the beginning!",
+        "desc_1": "You can find a summary on ",
+        "desc_2": "this page",
+        "desc_3": ".",
+        "desc_4": "It describes how to buy cryptocurrency, set up a crypto wallet called MetaMask, and purchase a marimo."
+      },
+      "q_3": {
+        "title": "Can I buy and resell marimo?",
+        "desc_1": "Yes. You can find reselling at ",
+        "desc_2": "OpenSea",
+        "desc_3": ", etc. If the project becomes popular, or if your marimo grows very big, there might be someone who wants to buy it.  However, I don't think it would happen that often. "
+      },
+      "q_4": {
+        "title": "Can we expect a price increase?",
+        "desc_1": "We basically do not recommend your purchasing with expectations for a future increase in value. The concept of this NFT is only to grow and enjoy taking care of marimo. In other words, we aim for a collection that is intended to be held for the long term and not be moved by short-term price fluctuations."
+      },
+      "q_5": {
+        "title": "How many marimos can I buy?",
+        "desc_1": "Maximum of 10 per person. But you can hold more than 10 marimos if you purchase at a secondary market such as OpenSea."
+      },
+      "q_6": {
+        "title": "What are the utilities ?",
+        "desc_1": "As you would not ask like  \"Are you worth anything?\" to the real marimos (moss ball), there is no practical function for marimo NFT. The important thing is emotion rather than the function. We want them to be raised with love.",
+        "desc_2": "While we hope to collaborate with others in near the future on various projects, such as making them into games, it is undecided at the moment. So please don't hold your breath."
+      },
+      "q_7": {
+        "title": "Is there a presale or whitelist?",
+        "desc_1": "I think it would be more NFT-like if we did that. But I thought that there might be some questions like, \"What's a presale? If I don't buy from there, will I lose money?\" or \"I heard that celebrities can get NFTs on the whitelist with favorable conditions. But does that mean ordinary people are suckers?\" Then, some may think it is difficult to enter the NFT industry. So as a basic rule, we decided to sell only at public sales.",
+        "desc_2": "However, for those who insist on purchasing the product, we will introduce the concept on our blog in advance, and those who wish to purchase from there will be able to do so only the day earlier with the same price."
+      },
+      "q_8": {
+        "title": "What are the proceeds from marimo used for?",
+        "desc_1": "10% of the NFT proceeds from the primary sales will be donated to NPOs and other organizations working to protect the global environment."
+      },
+      "q_9": {
+        "title": "What are the benefits of having marimo?",
+        "desc_1": "The person who has the ability is superior, the person who has the money is superior, and the person who has the good looks is superior....The world may be working like that, but that shouldn't be the only thing that matters.",
+        "desc_2": "Even those who contribute to society by making a little bit of steady effort every day should also be great.",
+        "desc_3": "marimo will be worth it because marimo will grow just by \"taking the time to have it\". We hope you can feel the meaning of daring to take time to nurture in NFT projects, which are changing significantly every day."
+      }
+    }
+  },
+  "marimos": {
+    "change_water": "Change Water",
+    "change_water_date": "Date",
+    "change_water_limit": "You can only change the water once every 24 hours",
+    "change_water_warn_1": "※Changing the water costs Gas Fees.",
+    "change_water_warn_2": "※Water changes are limited to once every 24 hours.",
+    "change_water_warn_3": {
+      "one": "The speed of growth will drop to {{percent}}％ in {{ count }} day.",
+      "other": "The speed of growth will drop to {{percent}}％ in {{ count }} days."
+    },
+    "change_water_warn_4": {
+      "one": "The speed of growth will drop to {{percent}}％ in {{ count }} hour.",
+      "other": "The speed of growth will drop to {{percent}}％ in {{ count }} hours."
+    },
+    "change_water_warn_5": "The speed of growth will drop to {{percent}}％ within 1 hour.",
+    "change_water_warn_6": {
+      "one": "The growth will stop in {{ count }} day.",
+      "other": "The growth will stop in {{ count }} days."
+    },
+    "change_water_warn_7": {
+      "one": "The growth will stop in {{ count }} hour.",
+      "other": "The growth will stop in {{ count }} hours."
+    },
+    "change_water_warn_8": "The growth will stop within 1 hour.",
+    "change_water_warn_9": "This marimo's growth has stopped. The growth will start again by replacing water.",
+    "change_water_history": "Records of Water Changes",
+    "change_water_history_desc_1": "💡The records of water changes is written on the blockchain (",
+    "change_water_history_desc_2": "What is \"written on the blockchain\"?",
+    "change_water_history_desc_3": ")",
+    "changing_water": "changing water…",
+    "clarity": "Water clarity",
+    "growth_speed": "the speed of growth",
+    "holder": "Holder",
+    "luck": "Luck",
+    "my_marimo": "my marimo",
+    "name_changed": "completed",
+    "name_length_error": "Please enter no more than 8 characters",
+    "name_marimo": "name the marimo",
+    "name_marimo_limitation": "（Up to 8 characters）",
+    "named_caution_desc_1": "😣 Name information will be lost if the ownership changes due to a secondary sale.",
+    "named_caution_title": "⚠️caution",
+    "named_complete": "Succeeded!!🎉",
+    "no_history": "No records of water change yet.",
+    "other_marimo": "Popular marimos",
+    "percent": "({{percent}}% of normal)",
+    "please_name_marimo": "Please name this marimo 🟢",
+    "power": "Power",
+    "request_change_water": "Requesting a Water Change",
+    "request_change_water_body": "Could you please change {{marimoName}} water?\nIf you want to take care of my growing marimoNFT,  please click here!!!\n#marimoNFT ",
+    "retry": "please try again later.",
+    "see_other_marimo_desc_1": "View more marimos on OpenSea",
+    "size": "Size",
+    "speed": "Speed",
+    "stamina": "Stamina",
+    "transaction_hash": "Transaction Hash",
+    "tweet": "Tweet",
+    "view_on_opensea": "View On OpenSea",
+    "wait_changing_water": "Please wait 15 seconds to 1 minute",
+    "water_changed": "The water successfully changed."
+  },
+  "my_marimo": {
+    "loading": "Loading...",
+    "not_have_marimo_desc_1": "You don't have any marimo yet.",
+    "not_have_marimo_desc_2": "Please Mint marimo and try again.",
+    "to_top": "TOP Page",
+    "your_marimo": "Your marimo"
+  }
+}
