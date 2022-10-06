@@ -19,6 +19,9 @@
     "url_copied": "OK",
     "wait_a_moment": "please wait around 15s to 60s"
   },
+  "unit": {
+    "days": "days"
+  },
   "footer": {
     "about_us": "About Us",
     "company_name": "alu inc.",
@@ -178,6 +181,7 @@
     "clarity": "Water clarity",
     "growth_speed": "the speed of growth",
     "holder": "Holder",
+    "number_of_days_elapsed": "Number of days elapsed",
     "luck": "Luck",
     "my_marimo": "my marimo",
     "name_changed": "completed",
