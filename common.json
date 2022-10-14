@@ -20,7 +20,8 @@
     "wait_a_moment": "please wait around 15s to 60s"
   },
   "unit": {
-    "days": "days"
+    "days": "days",
+    "dateFormat": "MM/dd/yy"
   },
   "footer": {
     "about_us": "About Us",
