@@ -21,7 +21,8 @@
   },
   "unit": {
     "days": "days",
-    "dateFormat": "MM/dd/yy"
+    "dateFormat": "MM/dd/yy",
+    "changed_water_count": "Loves"
   },
   "footer": {
     "about_us": "About Us",
@@ -224,8 +225,11 @@
     "owner_size_ranking_desc_1": "Ranking of marimo's size and clarity.",
     "owner_ranking_desc_1": "Ranking of marimo's holders.",
     "owner_ranking_desc_2": "These are raised with love and care.",
+    "changed_water_ranking_desc_1": "Ranking number of times people have changed water.",
+    "changed_water_ranking_desc_2": "You can express your love for marimo by changing the water.",
     "last_updated_at": "Updated",
     "owners": "Holders",
-    "size": "Size"
+    "size": "Size",
+    "changed_water": "Love"
   }
 }
